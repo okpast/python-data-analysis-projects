@@ -30,7 +30,7 @@ Performs data cleaning, exploratory data analysis (EDA), and visualization of a 
 
 **Visualizations:**
 
-![Sales by Category](images/sales_by_category.png)
+![Sales by Category](images/category_analysis.png)
 
 ![Sales by Country](images/sales_by_country.png)
 
