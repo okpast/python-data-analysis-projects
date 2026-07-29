@@ -36,7 +36,7 @@ Performs data cleaning, exploratory data analysis (EDA), and visualization of a 
 
 <img src="images/category_annual.png" width="700" alt="Annual Revenue Trend: Top 5 Product Categories">
 
-![Sales by Day of Week](images/sales_by_day_of_week.png)
+<img src="images/pivot_percent.png" width="700" alt="Seasonal Sales Distribution by Category (%)">
 
 ## Python Notebook
 
