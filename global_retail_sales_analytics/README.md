@@ -4,7 +4,7 @@ Python data analysis project built using Google Colab.
 
 ## Description
 
-Performs data cleaning, exploratory data analysis, and visualization of a global retail sales dataset using Python.
+Performs data cleaning, exploratory data analysis (EDA), and visualization of a global retail sales dataset using Python.
 
 ## Analysis
 
@@ -28,10 +28,16 @@ Performs data cleaning, exploratory data analysis, and visualization of a global
 - Seaborn
 - Google Colab
 
-**Visualization:**
+**Visualizations:**
 
-- Python charts (Matplotlib, Seaborn)
+![Sales by Category](images/sales_by_category.png)
 
-## Python notebook
+![Sales by Country](images/sales_by_country.png)
+
+![Sales Trend](images/sales_trend.png)
+
+![Sales by Day of Week](images/sales_by_day_of_week.png)
+
+## Python Notebook
 
 [global_retail_sales_analytics.ipynb](global_retail_sales_analytics.ipynb)
