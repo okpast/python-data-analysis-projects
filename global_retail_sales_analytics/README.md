@@ -1,4 +1,4 @@
-# Retail Sales Analytics
+# Global Retail Sales Analytics
 
 Python data analysis project created using Google Colab.
 
