@@ -38,6 +38,6 @@ Performs data cleaning, exploratory data analysis (EDA), and data visualization 
 
 <img src="images/pivot_percent.png" width="600" alt="Seasonal Sales Distribution by Category (%)">
 
-## Google Colab Notebook
+## Notebook
 
 [global_retail_sales_analytics.ipynb](global_retail_sales_analytics.ipynb)
