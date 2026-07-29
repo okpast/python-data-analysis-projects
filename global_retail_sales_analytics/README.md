@@ -28,7 +28,7 @@ Performs data cleaning, exploratory data analysis (EDA), and visualization of a 
 - Seaborn
 - Google Colab
 
-**Visualizations:**
+## Visualizations
 
 ![Sales by Category](images/category_analysis.png)
 
