@@ -1,10 +1,23 @@
 # Global Retail Sales Analytics
 
-Python data analysis project created using Google Colab.
+Python data analysis project built using Google Colab.
 
 ## Description
 
-Analyzes retail sales data using Python and visualizes key business insights.
+Performs data cleaning, exploratory data analysis, and visualization of a global retail sales dataset using Python.
+
+## Analysis
+
+- Data overview
+- Data cleaning
+- Sales analysis
+- Profit analysis
+- Product category analysis
+- Country and region analysis
+- Sales channel analysis
+- Shipping time analysis
+- Sales trends over time
+- Sales by day of week
 
 ## Tools
 
@@ -13,13 +26,12 @@ Analyzes retail sales data using Python and visualizes key business insights.
 - NumPy
 - Matplotlib
 - Seaborn
-  
-## Notebook
+- Google Colab
 
-[retail_sales_analytics.ipynb](retail_sales_analytics.ipynb)
+**Visualization:**
 
-## Visualizations
+- Python charts (Matplotlib, Seaborn)
 
-![Sales by Category](images/sales_by_category.png)
+## Python notebook
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+[global_retail_sales_analytics.ipynb](global_retail_sales_analytics.ipynb)
