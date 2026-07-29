@@ -30,22 +30,14 @@ Performs data cleaning, exploratory data analysis (EDA), and data visualization 
 
 ## Visualizations
 
-### Revenue Structure by Category
-
 <img src="images/category_analysis.png" width="700" alt="Revenue Structure by Category: Cost vs Profit">
-
-### Average Profit vs Shipping Lead Time
 
 <img src="images/profit_by_lead_time.png" width="700" alt="Average Profit vs Shipping Lead Time">
 
-### Annual Revenue Trend
-
 <img src="images/category_annual.png" width="700" alt="Annual Revenue Trend: Top 5 Product Categories">
-
-### Seasonal Sales Distribution
 
 <img src="images/pivot_percent.png" width="700" alt="Seasonal Sales Distribution by Category (%)">
 
-## Python Notebook
+## Google Colab Notebook
 
 [global_retail_sales_analytics.ipynb](global_retail_sales_analytics.ipynb)
