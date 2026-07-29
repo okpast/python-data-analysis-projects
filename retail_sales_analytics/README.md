@@ -12,7 +12,8 @@ Analyzes retail sales data using Python and visualizes key business insights.
 - Pandas
 - NumPy
 - Matplotlib
-
+- Seaborn
+  
 ## Notebook
 
 [retail_sales_analytics.ipynb](retail_sales_analytics.ipynb)
