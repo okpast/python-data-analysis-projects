@@ -38,9 +38,6 @@ Performs data cleaning, exploratory data analysis (EDA), and data visualization 
 
 <img src="images/pivot_percent.png" width="700" alt="Seasonal Sales Distribution by Category (%)">
 
-![Seasonal Sales Distribution by Category (%)](images/pivot_percent.png)
-
-
 ## Notebook
 
 [global_retail_sales_analytics.ipynb](global_retail_sales_analytics.ipynb)
