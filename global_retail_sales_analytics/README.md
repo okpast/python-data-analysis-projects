@@ -31,7 +31,6 @@ Performs data cleaning, exploratory data analysis (EDA), and data visualization 
 ## Visualizations
 
 ![Revenue Structure by Category: Cost vs Profit](images/category_analysis.png)
-<img src="images/category_analysis.png" width="700" alt="Revenue Structure by Category: Cost vs Profit">
 
 <img src="images/profit_by_lead_time.png" width="700" alt="Average Profit vs Shipping Lead Time">
 
