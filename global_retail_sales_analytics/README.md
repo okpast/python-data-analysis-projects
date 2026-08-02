@@ -30,6 +30,9 @@ Performs data cleaning, exploratory data analysis (EDA), and data visualization 
 
 ## Visualizations
 
+![Revenue Structure by Category: Cost vs Profit](images/category_analysis.png)
+
+
 <img src="images/category_analysis.png" width="600" alt="Revenue Structure by Category: Cost vs Profit">
 
 <img src="images/profit_by_lead_time.png" width="600" alt="Average Profit vs Shipping Lead Time">
@@ -37,8 +40,6 @@ Performs data cleaning, exploratory data analysis (EDA), and data visualization 
 <img src="images/category_annual.png" width="600" alt="Annual Revenue Trend: Top 5 Product Categories">
 
 <img src="images/pivot_percent.png" width="600" alt="Seasonal Sales Distribution by Category (%)">
-
-![Revenue Structure by Category: Cost vs Profit](images/category_analysis.png)
 
 ## Notebook
 
