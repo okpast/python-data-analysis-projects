@@ -36,7 +36,7 @@ Performs data cleaning, exploratory data analysis (EDA), and data visualization 
 
 <img src="images/category_annual.png" width="700" alt="Annual Revenue Trend: Top 5 Product Categories">
 
-
+![Seasonal Sales Distribution by Category (%)](images/pivot_percent.png)
 <img src="images/pivot_percent.png" width="600" alt="Seasonal Sales Distribution by Category (%)">
 
 ## Notebook
