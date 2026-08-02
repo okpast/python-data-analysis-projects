@@ -33,6 +33,7 @@ Performs data cleaning, exploratory data analysis (EDA), and data visualization 
 ![Revenue Structure by Category: Cost vs Profit](images/category_analysis.png)
 
 ![Average Profit vs Shipping Lead Time](images/profit_by_lead_time.png)
+<img src="images/profit_by_lead_time.png" width="700" alt="Average Profit vs Shipping Lead Time">
 
 <img src="images/category_annual.png" width="700" alt="Annual Revenue Trend: Top 5 Product Categories">
 
