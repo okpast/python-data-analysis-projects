@@ -4,7 +4,7 @@ Python data analysis project built using Google Colab and Google BigQuery.
 
 ## Description
 
-Analyzes e-commerce sales, customer behavior, traffic sources, and product performance using Python, SQL, statistical methods, and interactive dashboards.
+Analyzes e-commerce sales, customer behavior, traffic sources, and product performance using Python, SQL, statistical methods, and Tableau.
 
 ## Analysis
 
@@ -36,22 +36,12 @@ Analyzes e-commerce sales, customer behavior, traffic sources, and product perfo
 - Google Colab
 - Tableau Public
 
-## Visualizations
-
-<img src="images/category_analysis.png" width="700" alt="Revenue Structure by Category: Cost vs Profit">
-
-<img src="images/profit_by_lead_time.png" width="700" alt="Average Profit vs Shipping Lead Time">
-
-<img src="images/category_annual.png" width="700" alt="Annual Revenue Trend: Top 5 Product Categories">
-
-<img src="images/pivot_percent.png" width="700" alt="Seasonal Sales Distribution by Category (%)">
-
-## Notebook
-
-[ecommerce_sales_statistical_analysis.ipynb](ecommerce_sales_statistical_analysis.ipynb)
-
 ## Dashboard
 
 [Open in Tableau Public](https://public.tableau.com/app/profile/volodymyr.tsapko/viz/E-commerceSalesStatisticalAnalysis_17872140061880/Dashboard)
 
-[E-Commerce Sales & Statistical Analysis Dashboard](https://public.tableau.com/app/profile/volodymyr.tsapko/viz/E-commerceSalesStatisticalAnalysis_17872140061880/Dashboard)
+<img src="images/dashboard.png" width="900" alt="E-Commerce Sales and Statistical Analysis Dashboard">
+
+## Notebook
+
+[ecommerce_sales_statistical_analysis.ipynb](ecommerce_sales_statistical_analysis.ipynb)
