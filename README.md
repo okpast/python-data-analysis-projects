@@ -1,8 +1,25 @@
 # Python Data Analysis Projects
 
-Portfolio of Python data analysis projects using Pandas, NumPy, Matplotlib, Seaborn, and Jupyter notebooks.
+Portfolio of data analysis projects using Python, Pandas, NumPy, Matplotlib, Seaborn, and Google Colab.
+
+## Tools
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Google Colab
 
 ## Projects
+
+| Project | Description | Dashboard |
+|---|---|---|
+| [Global Retail Sales Analytics](global_retail_sales_analytics/) | Sales, profit, product categories, countries, sales channels, shipping lead time, and sales trends | — |
+| [E-Commerce Sales and Statistical Analysis](ecommerce_sales_statistical_analysis/) | Sales, orders, traffic sources, devices, registered users, email activity, and statistical analysis | ✅ |
+
+
+
 
 ### 1. Global Retail Sales Analytics
 
