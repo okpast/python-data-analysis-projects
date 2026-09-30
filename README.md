@@ -20,26 +20,8 @@ Portfolio of data analysis projects using Python, Pandas, NumPy, Matplotlib, Sea
 
 
 
-### 1. Global Retail Sales Analytics
 
-**Analyzed:**
-- Sales
-- Profit
-- Product categories
-- Countries and regions
-- Sales channels (Online/Offline)
-- Shipping lead time
-- Sales trends over time
-- Sales by day of week
 
-**Visualization:**
-- Python charts (Matplotlib, Seaborn)
-
-**Project:**
-[global_retail_sales_analytics](global_retail_sales_analytics/)
-
-**Notebook:**
-[global_retail_sales_analytics.ipynb](global_retail_sales_analytics/global_retail_sales_analytics.ipynb)
 
 ### 2. E-Commerce Sales and Statistical Analysis
 
