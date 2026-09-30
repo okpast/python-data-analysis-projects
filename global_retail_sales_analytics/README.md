@@ -10,12 +10,12 @@ Performs data cleaning, exploratory data analysis (EDA), and data visualization 
 
 - Data overview
 - Data cleaning
-- Sales analysis
-- Profit analysis
-- Product category analysis
-- Country and region analysis
-- Sales channel analysis
-- Shipping lead time analysis
+- Sales
+- Profit
+- Product category
+- Country and region
+- Sales channel
+- Shipping lead time
 - Sales trends over time
 - Sales by day of week
 
