@@ -36,6 +36,8 @@ Performs data cleaning, exploratory data analysis (EDA), and data visualization 
 
 <img src="images/country_annual.png" width="900" alt="Annual Revenue Trend: Top 5 Product Categories">
 
+<img src="images/profit_share_by_channel.png" width="700" alt="Частка у загальному прибутку (Total Profit)">
+
 <img src="images/pivot_percent.png" width="700" alt="Seasonal Sales Distribution by Category (%)">
 
 ## Notebook
