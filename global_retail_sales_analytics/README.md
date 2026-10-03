@@ -32,11 +32,11 @@ Performs data cleaning, exploratory data analysis (EDA), and data visualization 
 
 ![Revenue Structure by Category: Cost vs Profit](images/category_analysis.png)
 
-<img src="images/roi_margin_by_channel.png" width="700" alt="Ефективність: ROI % та Margin %">
+<img src="images/roi_margin_by_channel.png" width="700" alt="ROI and Profit Margin by Sales Channel">
 
 <img src="images/profit_by_lead_time.png" width="700" alt="Average Profit vs Shipping Lead Time">
 
-<img src="images/country_annual.png" width="900" alt="Annual Revenue Trend: Top 5 Product Categories">
+<img src="images/country_annual.png" width="900" alt="Annual Revenue Trend: Top 10 Countries">
 
 <img src="images/pivot_percent.png" width="700" alt="Seasonal Sales Distribution by Category (%)">
 
