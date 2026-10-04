@@ -1,6 +1,6 @@
 # Python Data Analysis Projects
 
-Portfolio of data analysis projects using Python, Pandas, NumPy, Matplotlib, Seaborn, and Google Colab.
+Portfolio of data analysis projects using Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Google BigQuery, Google Colab, and Tableau Public.
 
 ## Tools
 
