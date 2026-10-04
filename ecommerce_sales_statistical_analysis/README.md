@@ -4,24 +4,20 @@ Python data analysis project built using Google Colab and Google BigQuery.
 
 ## Description
 
-Analyzes e-commerce sales, customer behavior, traffic sources, and product performance using Python, SQL, statistical methods, and Tableau.
+Analyzes e-commerce sales, customer activity, traffic sources, devices, email engagement, and statistical relationships using Python, SQL, statistical methods, and Tableau.
 
 ## Analysis
 
-- Data extraction from Google BigQuery
-- Data overview
-- Data cleaning
-- Sales analysis
-- Product category analysis
-- Country and continent analysis
-- Traffic source analysis
-- Device analysis
-- Registered user analysis
-- Email subscription analysis
+- Sales performance
+- Orders
+- Product categories
+- Countries and continents
+- Traffic sources and channels
+- Device types and models
+- Registered users
+- Email confirmation and newsletter subscriptions
 - Sales trends
-- Pivot tables
-- Correlation analysis
-- Statistical hypothesis testing
+- Statistical analysis
 
 ## Tools
 
@@ -32,7 +28,6 @@ Analyzes e-commerce sales, customer behavior, traffic sources, and product perfo
 - NumPy
 - Matplotlib
 - Seaborn
-- SciPy
 - Google Colab
 - Tableau Public
 
