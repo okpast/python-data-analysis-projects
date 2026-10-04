@@ -1,6 +1,6 @@
 # Python Data Analysis Projects
 
-Portfolio of data analysis projects using Python and SQL for data cleaning,exploratory analysis, statistical analysis, and visualization.
+Portfolio of data analysis projects using Python and SQL for data cleaning, exploratory analysis, statistical analysis, and visualization.
 
 ## Tools
 
