@@ -14,8 +14,7 @@ Performs data cleaning, exploratory data analysis (EDA), and data visualization 
 
 ## Analysis
 
-- Data overview
-- Data cleaning
+- Dataset overview
 - Sales
 - Profit
 - Product category
