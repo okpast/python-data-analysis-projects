@@ -5,11 +5,14 @@ Portfolio of data analysis projects using Python, Pandas, NumPy, Matplotlib, Sea
 ## Tools
 
 - Python
+- SQL
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
+- Google BigQuery
 - Google Colab
+- Tableau Public
 
 ## Projects
 
