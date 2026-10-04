@@ -34,7 +34,7 @@ Performs data cleaning, exploratory data analysis (EDA), and data visualization 
 - Seaborn
 - Google Colab
 
-## Visualizations
+## Visualization
 
 ![Revenue Structure by Category: Cost vs Profit](images/category_analysis.png)
 
