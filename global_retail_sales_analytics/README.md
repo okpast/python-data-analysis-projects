@@ -8,7 +8,6 @@ Performs data cleaning, exploratory data analysis (EDA), and data visualization 
 
 ## Dataset
 
-* Source: CSV files (`.csv`)
 * `events.csv`
 * `products.csv`
 * `countries.csv`
