@@ -21,8 +21,6 @@ Portfolio of data analysis projects using Python, Pandas, NumPy, Matplotlib, Sea
 
 
 
-
-
 ### 2. E-Commerce Sales and Statistical Analysis
 
 **Analyzed:**
