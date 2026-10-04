@@ -6,6 +6,11 @@ Python data analysis project built using Google Colab and Google BigQuery.
 
 Analyzes e-commerce sales, customer activity, traffic sources, devices, email engagement, and statistical relationships using Python, SQL, and Tableau.
 
+## Dataset
+
+* Source: Google BigQuery
+* Dataset: `data-analytics-mate.DA`
+
 ## Analysis
 
 - Sales performance
