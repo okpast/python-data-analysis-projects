@@ -6,6 +6,13 @@ Python data analysis project built using Google Colab.
 
 Performs data cleaning, exploratory data analysis (EDA), and data visualization on a global retail sales dataset using Python.
 
+## Dataset
+
+* Source: CSV files (`.csv`)
+* `events.csv`
+* `products.csv`
+* `countries.csv`
+
 ## Analysis
 
 - Data overview
