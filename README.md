@@ -6,8 +6,8 @@ Portfolio of data analysis projects using Python and SQL for data cleaning, expl
 
 - Python
 - SQL
-- NumPy
 - Pandas
+- NumPy
 - Matplotlib
 - Seaborn
 - Google BigQuery
