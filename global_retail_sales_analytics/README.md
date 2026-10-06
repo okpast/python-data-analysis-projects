@@ -27,8 +27,8 @@ Performs data cleaning, exploratory data analysis (EDA), and data visualization 
 ## Tools
 
 - Python
-- NumPy
 - Pandas
+- NumPy
 - Matplotlib
 - Seaborn
 - Google Colab
