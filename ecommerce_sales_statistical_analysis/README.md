@@ -8,8 +8,8 @@ Analyzes e-commerce sales, customer activity, traffic sources, devices, email en
 
 ## Dataset
 
-* Source: Google BigQuery
-* Dataset: `data-analytics-mate.DA`
+- Source: Google BigQuery
+- Dataset: `data-analytics-mate.DA`
 
 ## Analysis
 
@@ -29,8 +29,8 @@ Analyzes e-commerce sales, customer activity, traffic sources, devices, email en
 - Python
 - SQL
 - Google BigQuery
-- NumPy
 - Pandas
+- NumPy
 - Matplotlib
 - Seaborn
 - Google Colab
