@@ -28,11 +28,11 @@ Analyzes e-commerce sales, customer activity, traffic sources, devices, email en
 
 - Python
 - SQL
-- Google BigQuery
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
+- Google BigQuery
 - Google Colab
 - Tableau Public
 
