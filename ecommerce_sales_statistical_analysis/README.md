@@ -8,8 +8,7 @@ Analyzes e-commerce sales, customer activity, traffic sources, devices, email en
 
 ## Dataset
 
-- Source: Google BigQuery
-- Dataset: `data-analytics-mate.DA`
+`data-analytics-mate.DA`
 
 ## Analysis
 
