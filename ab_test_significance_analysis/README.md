@@ -39,7 +39,7 @@ Analyzes A/B test performance by comparing conversion rates between control and 
 
 [Open in Tableau Public](https://public.tableau.com/app/profile/volodymyr.tsapko/viz/ABTestSignificanceAnalysis_17925911138990/Dashboard)
 
-<img src="images/dashboard.png" width="900" alt="E-Commerce Sales and Statistical Analysis Dashboard">
+<img src="images/dashboard.png" width="900" alt="A/B Test Significance Analysis">
 
 ## Notebook
 
