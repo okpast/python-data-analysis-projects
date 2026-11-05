@@ -20,3 +20,4 @@ Portfolio of data analysis projects using Python and SQL for data cleaning, expl
 |---|---|---|---|
 | [Global Retail Sales Analytics](global_retail_sales_analytics/) | Sales, profit, product categories, countries, sales channels, shipping lead time, and sales trends | CSV files | Python charts |
 | [E-Commerce Sales and Statistical Analysis](ecommerce_sales_statistical_analysis/) | Sales, orders, traffic sources, devices, registered users, email activity, and statistical analysis | Google BigQuery | Python charts + Tableau Public |
+| [A/B Test Significance Analysis](ab_test_significance_analysis/) | Control vs. variant conversion rates and statistical significance (Z-tests) for four A/B test metrics across tests and segments | `data-analytics-mate.DA` | — |
