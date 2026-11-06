@@ -4,7 +4,7 @@ Python statistical analysis project built using Google Colab and Google BigQuery
 
 ## Description
 
-Analyzes A/B test performance by comparing conversion rates between control and variant groups, evaluating statistical significance using Z-tests across four key metrics, multiple tests, and segments.
+Analyzes A/B test performance by comparing conversion rates between control and variant groups and evaluating statistical significance using two-proportion Z-tests across four event-based metrics, multiple tests, and segments.
 
 ## Dataset
 
